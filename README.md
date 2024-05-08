@@ -1,5 +1,23 @@
 # 💫 About Me:
-I'm currently working on Data Science and Machine Learning <br>I am open to collaborating on Data Science and machine learning projects<br>I love to do photography and traveling <br>
+👋 Hi, I’m Shivam Mishra (Sivm205)
+
+👀 I’m interested in Data analyst📊 | Data science🧬 | Machine Learning🤖 | Data Engineering🔧 | Business Intelligence💼 | Problem Solving💡 | Prompt Engineering🚀
+
+🌱 I’m currently working as a Data Scientist🔬
+
+💞️ You can reach me at sivm.skm@gmail.com
+
+Other than my professional work, I'm also passionate about:
+
+🎨 Photo Editing & Graphic Designing🖼️
+
+📊 Presentations🎨
+
+And in my free time, you'll often find me indulging in my hobbies:
+
+🌍 Traveling✈️
+
+📸 Photography📷
 
 
 ## 🌐 Socials:
