@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shivam Mishra (Sivm205)<br><br>👀 I’m interested in Data analyst📊 | Data science🧬 | Machine Learning🤖 | Data Engineering🔧 | Business Intelligence💼 | Problem Solving💡 | Prompt Engineering🚀<br><br>🌱 I’m currently working as a Data Scientist🔬<br><br>💞️ You can reach me at sivm.skm@gmail.com<br><br>Other than my professional work, I'm also passionate about:<br><br>🎨 Photo Editing & Graphic Designing🖼️<br><br>📊 Presentations🎨<br><br>And in my free time, you'll often find me indulging in my hobbies:<br><br>🌍 Traveling✈️<br><br>📸 Photography📷
+👋 Hi, I’m Shivam Mishra (Sivm205)<br><br> I’m interested in Data analyst | Data science | Machine Learning🤖 | Data Engineering🔧 | Business Intelligence | Problem Solving | Prompt Engineering<br><br> I’m currently working as a Data Scientist🔬<br><br> You can reach me at sivm.skm@gmail.com<br><br>Other than my professional work, I'm also passionate about:<br><br> Photo Editing & Graphic Designing<br><br> Presentations<br><br>And in my free time, you'll often find me indulging in my hobbies:<br><br> Traveling<br><br> Photography
 
 
 ## 🌐 Socials:
@@ -25,7 +25,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sivm205&icon=1&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/sivm205?country.x=IN&locale.x=en_GB) 
+ 
 
   
