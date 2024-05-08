@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shivam Mishra (Sivm205)<br><br> I’m interested in Data analyst | Data science | Machine Learning🤖 | Data Engineering🔧 | Business Intelligence | Problem Solving | Prompt Engineering<br><br> I’m currently working as a Data Scientist🔬<br><br> You can reach me at sivm.skm@gmail.com<br><br>Other than my professional work, I'm also passionate about:<br><br> Photo Editing & Graphic Designing<br><br> Presentations<br><br>And in my free time, you'll often find me indulging in my hobbies:<br><br> Traveling<br><br> Photography
+👋 Hi, I’m Shivam Mishra (Sivm205)<br><br> I’m interested in Data analyst | Data science | Machine Learning | Data Engineering | Business Intelligence | Problem-Solving | Prompt Engineering<br><br> I’m currently working as a Data Scientist<br>You can reach me at sivm.skm@gmail.com<br>Other than my professional work, I'm also passionate about <br>Photo Editing & Graphic Designing<br><br> Presentations<br>And, in my free time, you'll often find me indulging in my hobbies:<br> Traveling<br> Photography
 
 
 ## 🌐 Socials:
