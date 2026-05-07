@@ -20,6 +20,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+[![Image of https://github.com/sivm205/Public-Profile-Views](https://github.com/sivm205/Public-Profile-Views/blob/master/svg/profile/badge.svg)](https://github.com/sivm205/Public-Profile-Views)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sivm205&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
