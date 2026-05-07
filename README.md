@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shivam Mishra (Sivm205)<br> I’m interested in Data analysis | Data science | Machine Learning | Data Engineering | Business Intelligence | Problem-Solving |Prompt Engineering<br><br> I’m currently working as a SAP consultant at capgemini<br>You can reach me at sivm.skm@gmail.com<br>Other than my professional work, I'm also passionate about exploring new tech stack and keep myself updated with the technology<br>In my free time, you'll often find me indulging in my hobbies: Traveling and Photography <br>
+👋 Hi, I’m Shivam Kumar Mishra<br> I’m interested in Data analysis | Data science | Machine Learning | Data Engineering | Business Intelligence | Problem-Solving |Prompt Engineering<br><br> I’m currently working as a SAP consultant at capgemini<br>You can reach me at sivm.skm@gmail.com<br>Other than my professional work, I'm also passionate about exploring new tech stack and keep myself updated with the technology<br>In my free time, you'll often find me indulging in my hobbies: Traveling and Photography <br>
 
 
 ## 🌐 Socials:
